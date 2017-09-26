@@ -1,0 +1,7 @@
+D:\Isaac\CV\240917\Test\BelatrixTest_IsaacSanchez_Base\BelatrixTest_IsaacSanchez_Base\BelatrixTest.Files\bin\Debug\BelatrixTest.Files.dll
+D:\Isaac\CV\240917\Test\BelatrixTest_IsaacSanchez_Base\BelatrixTest_IsaacSanchez_Base\BelatrixTest.Files\bin\Debug\BelatrixTest.Files.pdb
+D:\Isaac\CV\240917\Test\BelatrixTest_IsaacSanchez_Base\BelatrixTest_IsaacSanchez_Base\BelatrixTest.Files\bin\Debug\Microsoft.Web.XmlTransform.dll
+D:\Isaac\CV\240917\Test\BelatrixTest_IsaacSanchez_Base\BelatrixTest_IsaacSanchez_Base\BelatrixTest.Files\bin\Debug\NuGet.Core.dll
+D:\Isaac\CV\240917\Test\BelatrixTest_IsaacSanchez_Base\BelatrixTest_IsaacSanchez_Base\BelatrixTest.Files\obj\Debug\BelatrixTest.Files.Log.csprojResolveAssemblyReference.cache
+D:\Isaac\CV\240917\Test\BelatrixTest_IsaacSanchez_Base\BelatrixTest_IsaacSanchez_Base\BelatrixTest.Files\obj\Debug\BelatrixTest.Files.dll
+D:\Isaac\CV\240917\Test\BelatrixTest_IsaacSanchez_Base\BelatrixTest_IsaacSanchez_Base\BelatrixTest.Files\obj\Debug\BelatrixTest.Files.pdb

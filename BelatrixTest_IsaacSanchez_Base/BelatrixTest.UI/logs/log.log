@@ -1,0 +1,8 @@
+2017-09-25 02:19:02,593 INFO [12] LoggerFrm - Running as USUARIO-PC\USUARIO
+2017-09-25 02:19:02,641 ERROR [12] LoggerFrm - This will appear in red in the console and still be written to file!
+2017-09-25 02:21:00,925 INFO [6] LoggerFrm - Running as USUARIO-PC\USUARIO
+2017-09-25 02:21:24,967 ERROR [6] LoggerFrm - This will appear in red in the console and still be written to file!
+2017-09-25 20:22:46,712 INFO [13] LoggerFrm - Running as USUARIO-PC\USUARIO
+2017-09-25 20:22:46,754 ERROR [13] LoggerFrm - This will appear in red in the console and still be written to file!
+2017-09-25 21:50:15,357 INFO [11] LoggerFrm - Running as USUARIO-PC\USUARIO
+2017-09-25 21:50:15,405 ERROR [11] LoggerFrm - This will appear in red in the console and still be written to file!

@@ -1,0 +1,11 @@
+D:\Isaac\CV\240917\Test\BelatrixTest_IsaacSanchez_Base\BelatrixTest_IsaacSanchez_Base\BelatrixTest.Access.Core\bin\Release\BelatrixTest.Access.Core.dll
+D:\Isaac\CV\240917\Test\BelatrixTest_IsaacSanchez_Base\BelatrixTest_IsaacSanchez_Base\BelatrixTest.Access.Core\bin\Release\BelatrixTest.Access.Core.pdb
+D:\Isaac\CV\240917\Test\BelatrixTest_IsaacSanchez_Base\BelatrixTest_IsaacSanchez_Base\BelatrixTest.Access.Core\bin\Release\BelatrixTest.Files.dll
+D:\Isaac\CV\240917\Test\BelatrixTest_IsaacSanchez_Base\BelatrixTest_IsaacSanchez_Base\BelatrixTest.Access.Core\bin\Release\Microsoft.Web.XmlTransform.dll
+D:\Isaac\CV\240917\Test\BelatrixTest_IsaacSanchez_Base\BelatrixTest_IsaacSanchez_Base\BelatrixTest.Access.Core\bin\Release\NuGet.Core.dll
+D:\Isaac\CV\240917\Test\BelatrixTest_IsaacSanchez_Base\BelatrixTest_IsaacSanchez_Base\BelatrixTest.Access.Core\bin\Release\BelatrixTest.Files.pdb
+D:\Isaac\CV\240917\Test\BelatrixTest_IsaacSanchez_Base\BelatrixTest_IsaacSanchez_Base\BelatrixTest.Access.Core\obj\Release\BelatrixTest.Access.Core.csprojResolveAssemblyReference.cache
+D:\Isaac\CV\240917\Test\BelatrixTest_IsaacSanchez_Base\BelatrixTest_IsaacSanchez_Base\BelatrixTest.Access.Core\obj\Release\BelatrixTest.Access.Core.Properties.Resources.resources
+D:\Isaac\CV\240917\Test\BelatrixTest_IsaacSanchez_Base\BelatrixTest_IsaacSanchez_Base\BelatrixTest.Access.Core\obj\Release\BelatrixTest.Access.Core.csproj.GenerateResource.Cache
+D:\Isaac\CV\240917\Test\BelatrixTest_IsaacSanchez_Base\BelatrixTest_IsaacSanchez_Base\BelatrixTest.Access.Core\obj\Release\BelatrixTest.Access.Core.dll
+D:\Isaac\CV\240917\Test\BelatrixTest_IsaacSanchez_Base\BelatrixTest_IsaacSanchez_Base\BelatrixTest.Access.Core\obj\Release\BelatrixTest.Access.Core.pdb

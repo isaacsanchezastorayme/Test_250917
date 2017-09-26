@@ -1,0 +1,13 @@
+D:\Isaac\CV\240917\Test\BelatrixTest_IsaacSanchez_Base\BelatrixTest_IsaacSanchez_Base\BellatrixTest_Test\bin\Debug\BellatrixTest_Test.dll
+D:\Isaac\CV\240917\Test\BelatrixTest_IsaacSanchez_Base\BelatrixTest_IsaacSanchez_Base\BellatrixTest_Test\bin\Debug\BellatrixTest_Test.pdb
+D:\Isaac\CV\240917\Test\BelatrixTest_IsaacSanchez_Base\BelatrixTest_IsaacSanchez_Base\BellatrixTest_Test\bin\Debug\BelatrixTest.Business.dll
+D:\Isaac\CV\240917\Test\BelatrixTest_IsaacSanchez_Base\BelatrixTest_IsaacSanchez_Base\BellatrixTest_Test\bin\Debug\BelatrixTest.Access.Core.dll
+D:\Isaac\CV\240917\Test\BelatrixTest_IsaacSanchez_Base\BelatrixTest_IsaacSanchez_Base\BellatrixTest_Test\bin\Debug\BelatrixTest.Access.Common.dll
+D:\Isaac\CV\240917\Test\BelatrixTest_IsaacSanchez_Base\BelatrixTest_IsaacSanchez_Base\BellatrixTest_Test\bin\Debug\BelatrixTest.Files.dll
+D:\Isaac\CV\240917\Test\BelatrixTest_IsaacSanchez_Base\BelatrixTest_IsaacSanchez_Base\BellatrixTest_Test\bin\Debug\BelatrixTest.Business.pdb
+D:\Isaac\CV\240917\Test\BelatrixTest_IsaacSanchez_Base\BelatrixTest_IsaacSanchez_Base\BellatrixTest_Test\bin\Debug\BelatrixTest.Access.Core.pdb
+D:\Isaac\CV\240917\Test\BelatrixTest_IsaacSanchez_Base\BelatrixTest_IsaacSanchez_Base\BellatrixTest_Test\bin\Debug\BelatrixTest.Access.Common.pdb
+D:\Isaac\CV\240917\Test\BelatrixTest_IsaacSanchez_Base\BelatrixTest_IsaacSanchez_Base\BellatrixTest_Test\bin\Debug\BelatrixTest.Files.pdb
+D:\Isaac\CV\240917\Test\BelatrixTest_IsaacSanchez_Base\BelatrixTest_IsaacSanchez_Base\BellatrixTest_Test\obj\Debug\BellatrixTest_Test.csprojResolveAssemblyReference.cache
+D:\Isaac\CV\240917\Test\BelatrixTest_IsaacSanchez_Base\BelatrixTest_IsaacSanchez_Base\BellatrixTest_Test\obj\Debug\BellatrixTest_Test.dll
+D:\Isaac\CV\240917\Test\BelatrixTest_IsaacSanchez_Base\BelatrixTest_IsaacSanchez_Base\BellatrixTest_Test\obj\Debug\BellatrixTest_Test.pdb
